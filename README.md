@@ -23,3 +23,12 @@ Build a dice game!
 * Iterate over the lists
 
 Read week_2.py from top to bottom.
+
+## Week 3
+Building out the dice game!
+* Define a function
+* Call the function
+* Iterate over the lists
+* Append to lists
+
+Read week_3.py from top to bottom.
