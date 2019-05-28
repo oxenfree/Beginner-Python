@@ -18,9 +18,6 @@ for i in range(5):
         dealer_die = roll_die()
         dealer_hand.append(dealer_die)
 
-print(dealer_hand)
-print(player_hand)
-
 matches = 0
 
 for current_die in player_hand:
@@ -29,3 +26,4 @@ for current_die in player_hand:
                 matches = matches + 1
 
 print(f'You got {matches} matches.')
+print(matched_die)
