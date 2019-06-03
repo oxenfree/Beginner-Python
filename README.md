@@ -32,3 +32,9 @@ Building out the dice game!
 * Append to lists
 
 Read week_3.py from top to bottom.
+
+## Week 4
+Building out the dice game!
+* FIZZ BUZZ!
+
+Read week_4.py from top to bottom.

@@ -4,6 +4,7 @@ import random
 def roll_dice():
     return random.randint(1, 6)
 
+
 dealer_hand = []
 player_hand = []
 

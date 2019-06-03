@@ -31,7 +31,7 @@ make_a_list = ['to make a list', 'use square brackets']
 make_a_list_on_separate_lines = [  # start the list
     'each value inside the list',
     'is kept together'
-    ]  # end the list
+]  # end the list
 
 call_a_list = make_a_list[0]
 # lists are zero index based
