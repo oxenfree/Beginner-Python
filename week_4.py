@@ -11,5 +11,10 @@ If the current integer is divisible by 5 print "buzz"
 If the current integer is divisible by 3 AND 5 print "fizzbuzz"
 """
 
+
+def fizz_buzz(number_to_reach):
+    pass
+
+
 number_to_reach = input('How high should we go? ')
 print(number_to_reach)
