@@ -36,5 +36,8 @@ Read week_3.py from top to bottom.
 ## Week 4
 Building out the dice game!
 * FIZZ BUZZ!
+* Functions, for loops
+* Modulo, adding to lists
+* Getting our feet wet with file handling
 
 Read week_4.py from top to bottom.
