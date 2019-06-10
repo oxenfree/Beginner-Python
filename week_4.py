@@ -5,7 +5,8 @@
 
 The goal of Fizz Buzz:
 
-Iterate through the natural integers up to a specified integer: number_to_reach.
+Iterate through the natural integers up to a
+    specified integer: number_to_reach.
 If the current integer is divisible by 3 print "fizz"
 If the current integer is divisible by 5 print "buzz"
 If the current integer is divisible by 3 AND 5 print "fizzbuzz"
