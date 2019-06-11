@@ -34,10 +34,17 @@ Building out the dice game!
 Read week_3.py from top to bottom.
 
 ## Week 4
-Building out the dice game!
+Building Fizz Buzz
 * FIZZ BUZZ!
 * Functions, for loops
 * Modulo, adding to lists
 * Getting our feet wet with file handling
 
 Read week_4.py from top to bottom.
+
+## Week 4
+Shelve Files and Dictionaries!
+* Creating dictionaries
+* Handling shelve files
+
+Read week_5.py from top to bottom.
