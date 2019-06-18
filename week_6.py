@@ -1,11 +1,10 @@
-import os
 import requests
-# from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 url = 'https://www.wunderground.com/weather/us/pa/pittsburgh/15262'
-page = requests.get(url)
+page = requests.get(url).content  # response
 
-# soup = BeautifulSoup(page, 'html.parser')
+soup = BeautifulSoup(page, 'html.parser')
 # temp = soup.find('span', class_='temp')
 
-print(page)
+print(soup.prettify)
