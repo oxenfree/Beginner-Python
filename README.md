@@ -57,4 +57,4 @@ Requests, pip (installing packages), and BeautifulSoup
 * Pulled the 'feels like' temperature and displayed
 * Bonus: took a zip code as input to scrape different cities in PA
 
-Read week_5.py from top to bottom.
+Read week_6.py from top to bottom.
