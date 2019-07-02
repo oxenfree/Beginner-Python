@@ -58,3 +58,10 @@ Requests, pip (installing packages), and BeautifulSoup
 * Bonus: took a zip code as input to scrape different cities in PA
 
 Read week_6.py from top to bottom.
+
+## Week 7
+Furthering our weather page scraper
+* Took a state and zip code as input to scrape different cities
+* Output a dictionary with a zip_code key and temp value
+
+Read week_7.py from top to bottom.
