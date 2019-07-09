@@ -65,3 +65,13 @@ Furthering our weather page scraper
 * Output a dictionary with a zip_code key and temp value
 
 Read week_7.py from top to bottom.
+
+## Week 8
+Finishing the weather scraper
+* Big one
+* Puts it all together
+* Scrape a page, parse the html
+* For loops, file writing, list access, oh my!
+
+Read week_8.py from top to bottom.
+The file is heavily commented.
