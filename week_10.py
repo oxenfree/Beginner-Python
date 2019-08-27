@@ -1,4 +1,4 @@
-
+import random
 ################################################
 ############### BEGINNER #######################
 ################################################
@@ -8,9 +8,6 @@ deck_i = {
     'club': ['A', 'K', 'Q', 'J', 2, 3, 4, 5, 6, 7, 8, 9, 10],
     'spade': ['A', 'K', 'Q', 'J', 2, 3, 4, 5, 6, 7, 8, 9, 10]
 }
-
-print('welcome to class!')
-print(deck_i)
 #
 #
 #
@@ -20,27 +17,6 @@ print(deck_i)
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-
-
 ################################################
 ############# INTERMEDIATE #####################
 ################################################
@@ -51,8 +27,9 @@ deck_ii = {
     'diamond': cards,
     'heart': cards,
     'club': cards,
-    'space': cards
+    'spade': cards
 }
+
 #
 #
 #
@@ -87,8 +64,39 @@ deck_ii = {
 ############### ADVANCED #######################
 ################################################
 
-cards = [i for i in range(2, 11)]
+cards = []
+for meow_mix in range(2, 11):
+    cards.append(meow_mix)
 faces = ['A', 'K', 'Q', 'J']
 cards.extend(faces)
 suits = ['\u2666', '\u2665', '\u2663', '\u2660']
-deck_ii = {suit: cards for suit in suits}
+deck_iii = {entities: cards for entities in suits}
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+print('welcome to blackjack!')
+print('your first card')
+suit_random = random.randint(0, 3)  # 2
+card_random = random.randint(0, 12)
+suit = list(deck_iii.keys())[suit_random]
+card = deck_iii[suit][card_random]
+
+print(f'{suit}{card}')
