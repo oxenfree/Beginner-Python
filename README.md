@@ -75,3 +75,12 @@ Finishing the weather scraper
 
 Read week_8.py from top to bottom.
 The file is heavily commented.
+
+## Week 9
+Rock, Paper, Scissors
+* Setting variables
+* Input from the terminal
+* List and Dict data retrieval
+* if, elif, else logical structures
+
+Read week_9.py from top to bottom.
