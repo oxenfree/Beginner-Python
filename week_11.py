@@ -99,5 +99,7 @@ card_random = random.randint(0, 12)
 suit = list(deck_iii.keys())[suit_random]
 card = deck_iii[suit][card_random]
 
+# This is probably not right.
+# I am fiddling with git.
 print(f'Player\'s hand 1: {suit}{card}')
 print(f'Player\'s hand 2: {suit}{card}')
