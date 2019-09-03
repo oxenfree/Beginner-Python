@@ -42,7 +42,7 @@ while hit:
     if counter < 2:
         continue
 
-    print(f'dealer\'s hand: {hands["dealer"]}')
+    print(f'dealer\'s hand: {hands["dealer"][0]}')
     print(f'player\'s hand: {hands["player"]}')
     keep_going = input('hit or stand? ')
     if 'h' not in keep_going:
