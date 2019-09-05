@@ -84,3 +84,19 @@ Rock, Paper, Scissors
 * if, elif, else logical structures
 
 Read week_9.py from top to bottom.
+
+## Week 10
+Starting Blackjack
+* Different ways to make a deck of cards
+* Setting variables
+* List and Dict comprehension
+
+Read week_10.py from top to bottom.
+
+## Week 11
+Building Blackjack
+* Make a deck of cards (simple version)
+* Make a function for drawing cards
+* Print a dealer and player hand
+
+Read week_11.py from top to bottom.
